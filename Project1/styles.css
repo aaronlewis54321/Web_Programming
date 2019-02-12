@@ -1,0 +1,420 @@
+
+img.one {
+	position: absolute;
+	top: 200px;
+	left:140px;
+
+}
+img.two {
+	position: absolute;
+	top: 175px;
+	left:232px;
+}
+img.three {
+	position: absolute;
+	top: 185px;
+	left:244px;
+}
+img.four {
+	position: absolute;
+	top: 205px;
+	left:158px;
+}
+img.five {
+	position: absolute;
+	top: 130px;
+	left:317px;
+}
+img.six {
+	position: absolute;
+	top: 187px;
+	left:229px;
+}
+img.seven {
+	position: absolute;
+	top: 225px;
+	left:229px;
+}
+img.eight {
+	position: absolute;
+	top: 140px;
+	left:427px;
+}
+img.nine {
+	position: absolute;
+	top: 200px;
+	left:229px;
+}
+img.ten {
+	position: absolute;
+	top: 170px;
+	left:488px;
+}
+img.eleven {
+	position: absolute;
+	top: 183px;
+	left:127px;
+}
+img.twelve {
+	position: absolute;
+	top: 43px;
+	left:701px;
+}
+img.thirteen {
+	position: absolute;
+	top: 220px;
+	left:717px;
+}
+img.fourteen {
+	position: absolute;
+	top: 172px;
+	left:246px;
+}
+img.fifteen {
+	position: absolute;
+	top: 288px;
+	left:517px;
+}
+img.sixteen {
+	position: absolute;
+	top: 288px;
+	left:502px;
+}
+
+div.menu1 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu1:hover a { 
+	display:block; 
+}
+div.menu1 a {
+	display: none;
+    text-decoration: none; 
+    background-color: red;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+div.menu2 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu2:hover a { 
+	display:block; 
+}
+div.menu2 a {
+	display: none;
+    text-decoration: none; 
+    background-color: green;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+div.menu3 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu3:hover a { 
+	display:block; 
+}
+div.menu3 a {
+	display: none;
+    text-decoration: none; 
+    background-color: red;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+div.menu4 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu4:hover a { 
+	display:block; 
+}
+div.menu4 a {
+	display: none;
+    text-decoration: none; 
+    background-color: gold;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+div.menu5 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu5:hover a { 
+	display:block; 
+}
+div.menu5 a {
+	display: none;
+    text-decoration: none; 
+    background-color: lightblue;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+
+div.menu6 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu6:hover a { 
+	display:block; 
+}
+div.menu6 a {
+	display: none;
+    text-decoration: none; 
+    background-color: red;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+
+div.menu7 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu7:hover a { 
+	display:block; 
+}
+div.menu7 a {
+	display: none;
+    text-decoration: none; 
+    background-color: red;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+div.menu8 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu8:hover a { 
+	display:block; 
+}
+div.menu8 a {
+	display: none;
+    text-decoration: none; 
+    background-color: gold;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+div.menu9 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu9:hover a { 
+	display:block; 
+}
+div.menu9 a {
+	display: none;
+    text-decoration: none; 
+    background-color: lightblue;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+div.menu10 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu10:hover a { 
+	display:block; 
+}
+div.menu10 a {
+	display: none;
+    text-decoration: none; 
+    background-color: red;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+
+div.menu11 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu11:hover a { 
+	display:block; 
+}
+div.menu11 a {
+	display: none;
+    text-decoration: none; 
+    background-color: red;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+
+div.menu12 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu12:hover a { 
+	display:block; 
+}
+div.menu12 a {
+	display: none;
+    text-decoration: none; 
+    background-color: lightblue;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+
+div.menu13 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu13:hover a { 
+	display:block; 
+}
+div.menu13 a {
+	display: none;
+    text-decoration: none; 
+    background-color: lightblue;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+
+div.menu14 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu14:hover a { 
+	display:block; 
+}
+div.menu14 a {
+	display: none;
+    text-decoration: none; 
+    background-color: red;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+
+
+div.menu15 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu15:hover a { 
+	display:block; 
+}
+div.menu15 a {
+	display: none;
+    text-decoration: none; 
+    background-color: grey;  
+    color: black;
+    border-top: 2px solid gray;
+}
+
+
+
+div.menu16 {
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 40em
+}
+div.menu16:hover a { 
+	display:block; 
+}
+div.menu16 a {
+	display: none;
+    text-decoration: none; 
+    background-color: red;  
+    color: black;
+    border-top: 2px solid gray;
+}
+

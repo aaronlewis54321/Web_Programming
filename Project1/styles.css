@@ -1,92 +1,101 @@
+h2.title {
+	background-color: #AA0114;
+	font-family: Courier;
+	text-align: center;
+}
+
+div.main {
+	display: inline-block;
+}
 
 img.one {
 	position: absolute;
-	top: 200px;
+	top: 243px;
 	left:140px;
 
 }
 img.two {
 	position: absolute;
-	top: 175px;
+	top: 218px;
 	left:232px;
 }
 img.three {
 	position: absolute;
-	top: 185px;
+	top: 228px;
 	left:244px;
 }
 img.four {
 	position: absolute;
-	top: 205px;
+	top: 248px;
 	left:158px;
 }
 img.five {
 	position: absolute;
-	top: 130px;
+	top: 173px;
 	left:317px;
 }
 img.six {
 	position: absolute;
-	top: 187px;
+	top: 230px;
 	left:229px;
 }
 img.seven {
 	position: absolute;
-	top: 225px;
+	top: 268px;
 	left:229px;
 }
 img.eight {
 	position: absolute;
-	top: 140px;
+	top: 173px;
 	left:427px;
 }
 img.nine {
 	position: absolute;
-	top: 200px;
+	top: 243px;
 	left:229px;
 }
 img.ten {
 	position: absolute;
-	top: 170px;
+	top: 213px;
 	left:488px;
 }
 img.eleven {
 	position: absolute;
-	top: 183px;
+	top: 226px;
 	left:127px;
 }
 img.twelve {
 	position: absolute;
-	top: 43px;
+	top: 86px;
 	left:701px;
 }
 img.thirteen {
 	position: absolute;
-	top: 220px;
+	top: 263px;
 	left:717px;
 }
 img.fourteen {
 	position: absolute;
-	top: 172px;
+	top: 215px;
 	left:246px;
 }
 img.fifteen {
 	position: absolute;
-	top: 288px;
+	top: 331px;
 	left:517px;
 }
 img.sixteen {
 	position: absolute;
-	top: 288px;
+	top: 331px;
 	left:502px;
 }
 
 div.menu1 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu1:hover a { 
 	display:block; 
@@ -102,10 +111,10 @@ div.menu1 a {
 
 div.menu2 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float:right;
 }
 div.menu2:hover a { 
 	display:block; 
@@ -123,10 +132,10 @@ div.menu2 a {
 
 div.menu3 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu3:hover a { 
 	display:block; 
@@ -144,10 +153,10 @@ div.menu3 a {
 
 div.menu4 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu4:hover a { 
 	display:block; 
@@ -165,10 +174,10 @@ div.menu4 a {
 
 div.menu5 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu5:hover a { 
 	display:block; 
@@ -187,10 +196,10 @@ div.menu5 a {
 
 div.menu6 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu6:hover a { 
 	display:block; 
@@ -209,10 +218,10 @@ div.menu6 a {
 
 div.menu7 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu7:hover a { 
 	display:block; 
@@ -230,10 +239,10 @@ div.menu7 a {
 
 div.menu8 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu8:hover a { 
 	display:block; 
@@ -251,10 +260,10 @@ div.menu8 a {
 
 div.menu9 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu9:hover a { 
 	display:block; 
@@ -272,10 +281,10 @@ div.menu9 a {
 
 div.menu10 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu10:hover a { 
 	display:block; 
@@ -294,10 +303,10 @@ div.menu10 a {
 
 div.menu11 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu11:hover a { 
 	display:block; 
@@ -316,10 +325,10 @@ div.menu11 a {
 
 div.menu12 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu12:hover a { 
 	display:block; 
@@ -338,10 +347,10 @@ div.menu12 a {
 
 div.menu13 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu13:hover a { 
 	display:block; 
@@ -360,10 +369,10 @@ div.menu13 a {
 
 div.menu14 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu14:hover a { 
 	display:block; 
@@ -382,10 +391,10 @@ div.menu14 a {
 
 div.menu15 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu15:hover a { 
 	display:block; 
@@ -402,10 +411,10 @@ div.menu15 a {
 
 div.menu16 {
     font-weight: bold;
-    background-color: blue;
     color: white;
     text-align: center;
-    width: 40em
+    width: 35em;
+	float: right;
 }
 div.menu16:hover a { 
 	display:block; 
